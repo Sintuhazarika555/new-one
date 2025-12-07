@@ -44,6 +44,14 @@ const interviewHistory = [
     score: 92,
     feedback: "Outstanding problem-solving skills! Clean code and optimal solutions. Keep practicing time complexity analysis. Your communication during coding is a major strength.",
     category: "Technical"
+  },
+  {
+    id: 6,
+    title: "Coding Interview Round",
+    date: "12-Dec-2024",
+    score: 92,
+    feedback: "Outstanding problem-solving skills! Clean code and optimal solutions. Keep practicing time complexity analysis. Your communication during coding is a major strength.",
+    category: "Technical"
   }
 ];
 
